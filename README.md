@@ -1,4 +1,3 @@
-# Tic-Tac-Toe-Game-
 
 # TicTacToe-Game-
 First University homework - Date of creation: 28 Nov 2022
