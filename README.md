@@ -1,7 +1,8 @@
 
 # TicTacToe-Game-
 First University homework - Date of creation: 28 Nov 2022
-Done using OpenFrameWorks
+Done using OpenFrameWorks. Link to download OpenFramwroks: https://openframeworks.cc/download/
+
 
 Features: 
          
